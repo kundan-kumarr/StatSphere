@@ -3,14 +3,14 @@ project:
     output-dir: docs
 
 book:
-    title: Time Series Analysis
-    subtitle: Lecture Notes with Examples in R
-    author: V. Lyubchich and Y. R. Gel
+    title: Statistical Analysis
+    subtitle: Statistical Analysis Lecture Notes with R
+    author: Kundan Kumar
     # date: today
     date-format: iso
-    favicon: TSAfav.png
+    favicon: favicon.png
     cover-image: TSAcov.png
-    repo-url: https://github.com/vlyubchich/tsar/
+    repo-url: https://github.com/kundan-kumarr/StatSphere/
     repo-branch: master
     repo-actions: [edit, issue]
     downloads: [pdf, epub]
