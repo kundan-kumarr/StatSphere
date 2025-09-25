@@ -14,7 +14,7 @@ book:
     repo-branch: master
     repo-actions: [edit, issue]
     downloads: [pdf, epub]
-  # sharing: [twitter, facebook]
+    sharing: [twitter, facebook]
     page-navigation: true
     reader-mode: true
     sidebar:
